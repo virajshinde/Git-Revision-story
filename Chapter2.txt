@@ -1,1 +1,1 @@
-Good!! I am learning Git version control
+Good!! I am learning Git version control and I am editing this story on alternate branch!!
